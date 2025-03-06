@@ -1,7 +1,8 @@
 # Frontend Mentor - Social links profile
 
-## Alejandro
+## Franco Eduardo Aparicio Quispe
 
-![Design preview for the Social links profile coding challenge](./preview.jpg)
+(./assets/images/framcoty.png)
+
 
 **Have fun building!** 🚀
