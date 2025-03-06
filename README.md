@@ -2,7 +2,9 @@
 
 ## Franco Eduardo Aparicio Quispe
 
-(./assets/images/framcoty.png)
+
+![Design preview for the Social links profile coding challenge](./assets/images/framcoty.png)
+![Design preview for the Social links profile coding challenge](./preview.jpg)
 
 
 **Have fun building!** 🚀
